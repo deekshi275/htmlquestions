@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #e8f4f8;
+    font-family: Arial, sans-serif;
+}
+
+.continer {
+    width: 100%;
+}
+
+#hh {
+    background-color: #000000;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+
+.main {
+    background-color: white;
+    padding: 30px;
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 10px;
+    text-transform: capitalize;
+    
+    
+    h4 {
+        font-size: 16px;
+        color: #3498db;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+    }
+    
+    h1 {
+        font-size: 32px;
+        color: #2c3e50;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+    }
+    
+    h3 {
+        color: #27ae60;
+        text-transform: capitalize;
+        margin-bottom: 15px;
+    }
+    
+    p {
+        color: #555;
+        text-transform: capitalize;
+        line-height: 1.6;
+        margin-bottom: 20px;
+    }
+}
+
+.link {
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-size: 24px;
+    a {
+        color: #3498db;
+        margin-right: 15px;
+        text-decoration: none;
+    }
+}
+
+
+
+#can {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+
+#cann {
+    background-color: #27ae60;
+    text-transform: capitalize;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+
